@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://asfdq74.github.io/blog</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://asfdq74.github.io/blog</link></image><lastBuildDate>Wed, 22 Oct 2025 11:22:41 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>if嵌套以及switch语句</title><link>https://asfdq74.github.io/blog/post/if-qian-tao-yi-ji-switch-yu-ju.html</link><description>![Image](https://github.com/user-attachments/assets/cd416620-172b-41e9-b5c4-616ad9dc65e3)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://asfdq74.github.io/blog</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://asfdq74.github.io/blog</link></image><lastBuildDate>Sat, 25 Oct 2025 08:57:54 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>小结1</title><link>https://asfdq74.github.io/blog/post/xiao-jie-1.html</link><description>证明数列极限存在并求具体值时要先证明数列收敛，如下：
+
+![Image](https://github.com/user-attachments/assets/6e6e8758-1f17-45e8-89f1-e3226738c53d)
+讨论函数连续性时注意区间的划分，对幂函数注意底数绝对值大于或小于1的影响，如下：
+
+![Image](https://github.com/user-attachments/assets/a0091524-36ac-4112-a0da-8b8c74c3bdb7)
+看见含有根号的式子考虑有理化，如下：
+
+![Image](https://github.com/user-attachments/assets/c201efe4-0b4d-470e-997f-ae89cfd1b770)。</description><guid isPermaLink="true">https://asfdq74.github.io/blog/post/xiao-jie-1.html</guid><pubDate>Sat, 25 Oct 2025 08:57:14 +0000</pubDate></item><item><title>if嵌套以及switch语句</title><link>https://asfdq74.github.io/blog/post/if-qian-tao-yi-ji-switch-yu-ju.html</link><description>![Image](https://github.com/user-attachments/assets/cd416620-172b-41e9-b5c4-616ad9dc65e3)
 ![Image](https://github.com/user-attachments/assets/96c936c9-68db-4c16-80da-c1c78e3408f7)
 ![Image](https://github.com/user-attachments/assets/5a3f7628-018e-4576-8314-ff811201ace2)
 ![Image](https://github.com/user-attachments/assets/96d35359-19b0-4db7-8edc-48bb299663a1)
