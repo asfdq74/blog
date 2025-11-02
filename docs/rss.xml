@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://asfdq74.github.io/blog</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://asfdq74.github.io/blog</link></image><lastBuildDate>Thu, 30 Oct 2025 10:29:28 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>小结1</title><link>https://asfdq74.github.io/blog/post/xiao-jie-1.html</link><description>两变量交换值需要一个中间量传递。</description><guid isPermaLink="true">https://asfdq74.github.io/blog/post/xiao-jie-1.html</guid><pubDate>Thu, 30 Oct 2025 10:28:56 +0000</pubDate></item><item><title>尚书</title><link>https://asfdq74.github.io/blog/post/shang-shu.html</link><description>![Image](https://github.com/user-attachments/assets/c279167d-8463-478b-b77a-7025a7c1eefa)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://asfdq74.github.io/blog</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://asfdq74.github.io/blog</link></image><lastBuildDate>Sun, 02 Nov 2025 02:49:51 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>小结1</title><link>https://asfdq74.github.io/blog/post/xiao-jie-1.html</link><description>一定要分清变量名！
+一定要做好文件的分类和管理！
+一定要沟通顺畅！
+一定要统一代码规范！
+一定要理清文件引用关系！
+一定要避免文件耦合！
+一定一定一定要用英文开发！
+一定要提前准备好素材！
+。</description><guid isPermaLink="true">https://asfdq74.github.io/blog/post/xiao-jie-1.html</guid><pubDate>Sun, 02 Nov 2025 02:49:20 +0000</pubDate></item><item><title>小结1</title><link>https://asfdq74.github.io/blog/post/xiao-jie-1.html</link><description>两变量交换值需要一个中间量传递。</description><guid isPermaLink="true">https://asfdq74.github.io/blog/post/xiao-jie-1.html</guid><pubDate>Thu, 30 Oct 2025 10:28:56 +0000</pubDate></item><item><title>尚书</title><link>https://asfdq74.github.io/blog/post/shang-shu.html</link><description>![Image](https://github.com/user-attachments/assets/c279167d-8463-478b-b77a-7025a7c1eefa)
 ![Image](https://github.com/user-attachments/assets/e09a7cb1-a49b-41e6-afd0-550fee795ef8)
 ![Image](https://github.com/user-attachments/assets/f5545475-db89-4795-8c80-8760bcaba3ee)
 ![Image](https://github.com/user-attachments/assets/0c2f8341-32da-421b-8383-56b0d2ea15fd)
