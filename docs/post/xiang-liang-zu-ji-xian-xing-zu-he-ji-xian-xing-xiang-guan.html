@@ -10,27 +10,11 @@
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
-<meta name="description" content="![Image](https://github.com/user-attachments/assets/bb7ff461-319f-412c-9c60-eed1fd26d537)
-![Image](https://github.com/user-attachments/assets/ab9d5ef3-8d42-4e07-add5-65b55ec9a273)
-![Image](https://github.com/user-attachments/assets/d3102f6c-2914-47f3-8ede-72cfd2739023)
-![Image](https://github.com/user-attachments/assets/e4ce911b-db04-4a3c-bffd-078136922cb0)
-![Image](https://github.com/user-attachments/assets/2ec9bd69-9cc2-400d-a00c-c83270ca819b)
-![Image](https://github.com/user-attachments/assets/b7a81046-f1b8-48ee-9cd5-1c13d106c684)
-![Image](https://github.com/user-attachments/assets/b93a5235-474b-4370-962d-a673c9c18be0)
-![Image](https://github.com/user-attachments/assets/bb24300c-c7b3-43b9-8d95-e2061a243e61)
-![Image](https://github.com/user-attachments/assets/a3de9e16-3df4-4022-8fbc-de5e0d8f1782)
-![Image](https://github.com/user-attachments/assets/1d01e2ad-2596-4ba7-95c8-198316bcd6f2)。">
+<meta name="description" content="证明两个向量组的线性表示性：
+将两组的秩进行比较，等于则（相互表示）。">
 <meta property="og:title" content="向量组及线性组合及线性相关">
-<meta property="og:description" content="![Image](https://github.com/user-attachments/assets/bb7ff461-319f-412c-9c60-eed1fd26d537)
-![Image](https://github.com/user-attachments/assets/ab9d5ef3-8d42-4e07-add5-65b55ec9a273)
-![Image](https://github.com/user-attachments/assets/d3102f6c-2914-47f3-8ede-72cfd2739023)
-![Image](https://github.com/user-attachments/assets/e4ce911b-db04-4a3c-bffd-078136922cb0)
-![Image](https://github.com/user-attachments/assets/2ec9bd69-9cc2-400d-a00c-c83270ca819b)
-![Image](https://github.com/user-attachments/assets/b7a81046-f1b8-48ee-9cd5-1c13d106c684)
-![Image](https://github.com/user-attachments/assets/b93a5235-474b-4370-962d-a673c9c18be0)
-![Image](https://github.com/user-attachments/assets/bb24300c-c7b3-43b9-8d95-e2061a243e61)
-![Image](https://github.com/user-attachments/assets/a3de9e16-3df4-4022-8fbc-de5e0d8f1782)
-![Image](https://github.com/user-attachments/assets/1d01e2ad-2596-4ba7-95c8-198316bcd6f2)。">
+<meta property="og:description" content="证明两个向量组的线性表示性：
+将两组的秩进行比较，等于则（相互表示）。">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://asfdq74.github.io/blog/post/xiang-liang-zu-ji-xian-xing-zu-he-ji-xian-xing-xiang-guan.html">
 <meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
@@ -91,7 +75,13 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 </div>
 </div>
     <div id="content">
-<div class="markdown-body" id="postBody"><p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/bb7ff461-319f-412c-9c60-eed1fd26d537"><img src="https://github.com/user-attachments/assets/bb7ff461-319f-412c-9c60-eed1fd26d537" alt="Image" style="max-width: 100%;"></a><br>
+<div class="markdown-body" id="postBody"><p>证明两个向量组的线性表示性：<br>
+将两组的秩进行比较，等于则（相互表示）。<br>
+证明两个向量组的线性相关性：<br>
+将两组及其增广矩阵的秩进行比较，若相等则相关。<br>
+或采用B=AK的形式，求k的行列式的值。<br>
+对单个向量组，若组的秩等于组成其的向量数或其行列式的值不为0，则无关。若秩小于向量数或行列式值等于0，则相关。</p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/bb7ff461-319f-412c-9c60-eed1fd26d537"><img src="https://github.com/user-attachments/assets/bb7ff461-319f-412c-9c60-eed1fd26d537" alt="Image" style="max-width: 100%;"></a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/ab9d5ef3-8d42-4e07-add5-65b55ec9a273"><img src="https://github.com/user-attachments/assets/ab9d5ef3-8d42-4e07-add5-65b55ec9a273" alt="Image" style="max-width: 100%;"></a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/d3102f6c-2914-47f3-8ede-72cfd2739023"><img src="https://github.com/user-attachments/assets/d3102f6c-2914-47f3-8ede-72cfd2739023" alt="Image" style="max-width: 100%;"></a><br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/e4ce911b-db04-4a3c-bffd-078136922cb0"><img src="https://github.com/user-attachments/assets/e4ce911b-db04-4a3c-bffd-078136922cb0" alt="Image" style="max-width: 100%;"></a><br>
